@@ -15,13 +15,7 @@
             "name": "AboutMe",
             "request": "launch",
             "mainClass": "AboutMe",
-            "projectName": "java-terminal_c400dcff",
-            "args": [
-                "Tiago",
-                "Araujo",
-                "35",
-                "1.82"
-            ]
+            "projectName": "java-terminal_c400dcff"
         },
         {
             "type": "java",
