@@ -4,5 +4,6 @@ public class CondicaoTernaria1 {
 		int nota = 7;
 		String resultado = nota >=7 ? "Aprovado" : "Reprovado";
 		System.out.println(resultado);
+		
 	}
 }
